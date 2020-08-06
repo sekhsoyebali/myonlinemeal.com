@@ -1,0 +1,16 @@
+#partner img {
+  width: 120px;
+  height: 120px;
+  padding: 0px 30px;
+}
+#partner-section {
+  height: 200px;
+  margin-bottom: 100px;
+}
+.first {
+  margin-top: 130px;
+  margin-bottom: 0px;
+}
+#home {
+  padding: 0 30px;
+}

@@ -1,0 +1,30 @@
+#contact #contact-box input,
+#contact #contact-box textarea {
+  font-size: 1.2rem;
+  width: 93%;
+}
+#contact #contact-box textarea {
+  height: 50px;
+}
+#home {
+  height: 480px;
+}
+#home::before {
+  height: 84%;
+}
+footer {
+  font-size: 16px;
+  padding: 10px 1px 13px 1px;
+}
+#contact {
+  height: 569px;
+}
+#contact::before {
+  height: 83%;
+}
+.btn2 {
+  margin-left: 80px;
+}
+#partner-section::before {
+  height: 74%;
+}

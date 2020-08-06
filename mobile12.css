@@ -1,0 +1,67 @@
+#navbar ul li {
+  font-size: 1rem;
+}
+#contact #contact-box input,
+#contact #contact-box textarea {
+  font-size: 1.2rem;
+  width: 85%;
+}
+#partner {
+  margin-top: -20px;
+}
+#partner img {
+  width: 100px;
+  height: 100px;
+  padding: 10px 30px;
+}
+#partner-section {
+  height: 230px;
+  margin-bottom: 100px;
+}
+.h-primary {
+  font-size: 2rem;
+}
+
+#contact .form-group {
+  margin-left: 25px;
+}
+.btn2 {
+  font-size: 20px;
+  margin-bottom: 15px;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+#contact {
+  height: 565px;
+  margin-top: 140px;
+  margin-bottom: -35px;
+}
+#contact::before {
+  margin-top: -20px;
+  height: 86%;
+}
+#contact label {
+  font-size: 1.3rem;
+}
+#contact #contact-box input,
+#contact #contact-box textarea {
+  font-size: 1rem;
+}
+#contact #contact-box textarea {
+  height: 50px;
+}
+.para {
+  display: none;
+}
+#home {
+  height: 345px;
+}
+#home::before {
+  height: 60%;
+}
+footer {
+  font-size: 15px;
+}
+#home::before {
+  height: 80%;
+}

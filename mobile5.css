@@ -1,0 +1,50 @@
+.pizzahut {
+  display: none;
+}
+#navbar {
+  display: flex;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  flex-direction: column;
+}
+#navbar ul li a {
+  padding-bottom: 4px;
+  margin-bottom: 4px;
+}
+#services .box {
+  margin: 20px 60px;
+}
+#logo img {
+  width: 120px;
+  height: 110px;
+}
+
+/* contact */
+#contact #contact-box input,
+#contact #contact-box textarea {
+  font-size: 1.2rem;
+}
+#contact #contact-box textarea {
+  height: 50px;
+}
+#contact form {
+  width: 350px;
+}
+.btn2 {
+  font-size: 20px;
+  margin-bottom: 15px;
+  margin-left: 90px;
+  margin-top: 20px;
+}
+.h-secondary {
+  font-size: 1.3rem;
+}
+#home {
+  height: 400px;
+}
+#home::before {
+  height: 80%;
+  background: url(b2.jpg) no-repeat center center/cover;
+  opacity: 0.6;
+}

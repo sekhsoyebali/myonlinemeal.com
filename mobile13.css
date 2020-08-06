@@ -1,0 +1,55 @@
+.para {
+  display: none;
+}
+#logo img {
+  margin: -56px -10px;
+  width: 120px;
+  height: 120px;
+}
+#navbar ul li {
+  list-style: none;
+  font-size: 0.9rem;
+}
+#partner img {
+  width: 80px;
+  height: 80px;
+  padding: 10px 30px;
+}
+#partner-section {
+  height: 230px;
+  margin-bottom: -111px;
+}
+#partner-section::before {
+  margin-top: -16px;
+}
+#home {
+  height: 400px;
+}
+#home::before {
+  height: 87%;
+}
+#services .box img {
+  width: 210px;
+  height: 190px;
+}
+.btn2 {
+  font-size: 18px;
+  margin-bottom: 15px;
+  margin-left: 64px;
+  margin-top: 20px;
+  padding: 10px 43px;
+}
+footer {
+  font-size: 12px;
+}
+#contact::before {
+  height: 93%;
+  margin-top: 42px;
+}
+#contact h1 {
+  color: rgb(63, 0, 255);
+  padding-top: 66px;
+}
+#contact {
+  margin-bottom: 0px;
+}
